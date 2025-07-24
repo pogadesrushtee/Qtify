@@ -1,0 +1,17 @@
+.button{
+    background-color: #121212;
+    border-radius: 8px;
+    padding: 5px;
+    cursor: pointer;
+    font-family: 'Poppins',sans-serif;
+    color: #34C94B;
+}
+
+.textData{
+    color: "#34C94B" !important;
+
+}
+
+.buttonText{
+    color: #34C94B;
+}
