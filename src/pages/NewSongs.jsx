@@ -2,7 +2,7 @@ import React,{useState} from 'react';
 import styles from './Albumpage.module.css';
 import { Grid, Typography } from '@mui/material';
 import Carousel from './Carousel';
-import GridData from './Griddata';
+import GridData from './GridData';
 
 const NewSongs = ({newAlbum,title}) => {
     const [showAll, setShowAll] = useState(true);
